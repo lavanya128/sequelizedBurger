@@ -13,7 +13,7 @@ This app is a remake of the original Burger repo. The key difference is that it 
 
 To run the application locally, first clone this repository with the following command.
 
-`git clone git@github.com:angrbrd/sequelizedBurger.git`
+`git clone git@github.com:lavanya128/sequelizedBurger.git`
 
 Next, install the application dependencies.
 
